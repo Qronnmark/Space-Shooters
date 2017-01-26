@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rocket\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Rocket\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ checkKeyPress\ makes\ the\ Rocket\ move\ up\ and\ down\ and\ fire\ a\ cannon\ when\ buttons\ are\ pressed.\r\n\ \r\n\ @param\ There\ are\ no\ Parameters\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ checkCollision\ allows\ the\ game\ to\ end\ if\ you\ get\ touched\ by\ a\ alien.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ nothing\ that\ gets\ returned\r\n
+numComments=4

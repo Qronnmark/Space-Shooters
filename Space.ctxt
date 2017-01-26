@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Space.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ Act\ is\ used\ to\ spawn\ in\ enemies\ at\ a\ random\ intervals\ at\ random\ spots.\r\n\ \ \r\n\ \ @param\ There\ are\ no\ parameters\r\n\ \ @return\ Nothing\ is\ returned.\r\n
+comment3.params=
+comment3.target=void\ showScore()
+comment3.text=\r\n\ \ showScore\ is\ used\ to\ show\ your\ score.\r\n\ \ \r\n\ \ @param\ There\ are\ no\ parameters.\r\n\ \ @return\ Nothing\ is\ returned.\r\n
+comment4.params=points
+comment4.target=void\ addScore(int)
+comment4.text=\r\n\ \ AddScore\ is\ used\ to\ add\ up\ your\ score\ and\ give\ you\ the\ win\ when\ you\ get\ to\ 5000.\r\n\ \ \r\n\ \ @param\ the\ parameters\ are\ to\ retain\ the\ point\ counter.\r\n\ \ @return\ Nothing\ is\ returned.\r\n
+numComments=5
